@@ -1,7 +1,4 @@
 
--- requirements: executors supporting hookmetamethod or getrawmetatable
--- env: Roblox Client (Counter Blox)
--- файл: CB_Perplexity_Win.lua
 _G.Status = "Ready!"
 local getinfo = getinfo or debug.getinfo
 local DEBUG = false
